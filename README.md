@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a full stack developer.
-
 <div align="center">
   <a href="https://github.com/hmeqo">
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=hmeqo&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
@@ -24,7 +22,7 @@ I'm a full stack developer.
   </a>
 </div>
 <br>
-<div style="display: inline_block">
+<div align="center">
   <img align="center" alt="ArchLinux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
@@ -32,3 +30,7 @@ I'm a full stack developer.
   <img align="center" alt="Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg">
 </div>
+
+## About Me
+
+I'm a software developer.
