@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 
 ## About Me
 
-I'm a software developer.
+I'm a full stack developer.
