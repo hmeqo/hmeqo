@@ -33,7 +33,8 @@ Here are some ideas to get you started:
 ![TypeScript](https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/nuxt-00DC82.svg?style=for-the-badge&logo=nuxt&logoColor=white)
-![Java](https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Solid](https://img.shields.io/badge/solid-446b9e.svg?style=for-the-badge&logo=solid&logoColor=white)
+![Java](https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 </div>
 
