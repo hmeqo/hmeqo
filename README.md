@@ -23,6 +23,7 @@
 ![Lua](https://img.shields.io/badge/lua-446b9e.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Java](https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-283593.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-7355dd.svg?style=for-the-badge&logo=sharp&logoColor=white)
 ![Go](https://img.shields.io/badge/go-4DD0E1.svg?style=for-the-badge&logo=go&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 <br>
