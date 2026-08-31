@@ -1,14 +1,7 @@
-## Hi there 👋
+### Hi there 👋
 
-<!-- <div align="center">
-  <a href="https://github.com/hmeqo">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=hmeqo&show_icons=true&theme=transparent"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmeqo&hide=CSS&layout=compact&langs_count=7&theme=transparent"/>
-  </a>
-</div>
+I'm **hmeqo**, a full-stack developer building AI agents with Rust & TypeScript.
 
-<br>
- -->
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20px"> Skills:
 
 ### Languages:
@@ -28,28 +21,31 @@
 ![SQL](https://img.shields.io/badge/sql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 <br>
 
-### Framworks:
+### Frameworks:
 <br>
 
 ![Tauri](https://img.shields.io/badge/tauri-24c8db.svg?style=for-the-badge&logo=tauri&logoColor=white)
 ![Django](https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/nuxt-00DC82.svg?style=for-the-badge&logo=nuxt&logoColor=white)
 ![Solid](https://img.shields.io/badge/solid-446b9e.svg?style=for-the-badge&logo=solid&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-38BDF8.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 <br>
 
-### IDE and Tools:
+### Tools & Environment:
 <br>
 
 ![Neovim](http://img.shields.io/badge/neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![VSCode](http://img.shields.io/badge/vscode-35a0f3?style=for-the-badge&logo=vscode&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![uv](https://img.shields.io/badge/uv-DE5FE9.svg?style=for-the-badge&logo=uv&logoColor=white)
-<br>
-
-### Operating System:
-<br>
-
 ![Linux](https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Archlinux](https://img.shields.io/badge/archlinux-1793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/windows-007cf7.svg?style=for-the-badge&logo=windows&logoColor=white)
 <br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hmeqo/hmeqo/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hmeqo/hmeqo/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/hmeqo/hmeqo/output/github-contribution-grid-snake.svg" />
+</picture>
